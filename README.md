@@ -1,9 +1,9 @@
-<h3 align="center" style="font-size: 2rem;">Hi, I'm Alex 👋</h3>
+<h3 align="center">Hi, I'm Alex 👋</h3>
 
 <h4 align="center">🔎 You can reach me at these places:</h4>
 
 <h4 align="center">
-  <a href="mailto:hello@alexyu.xyz">💻 Github</a>
+  <a href="https://github.com/alexy4744">💻 Github</a>
 </h4>
 
 <h4 align="center">  
