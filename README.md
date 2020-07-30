@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexy4744&theme=tokyonight&show_icons=true&hide=issues" />
+  <img alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexy4744&theme=tokyonight&show_icons=true&count_private=true&hide=issues" />
   <img alt="Alex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexy4744&theme=tokyonight&layout=compact" />
 </p>
 
