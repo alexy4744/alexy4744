@@ -1,21 +1,14 @@
-<h3 align="center">Hi, I'm Alex 👋</h3>
+### Hi, I'm Alex 👋
 
-<h4 align="center">🔎 You can reach me at these places:</h4>
+#### I’m currently working on [Quicksend](https://github.com/quicksend/quicksend), a self-hostable file sharing service.
 
-<h4 align="center">
-  <a href="https://github.com/alexy4744">💻 Github</a>
-</h4>
+#### You can reach me at these places:
+  - <strong>[💻 Github](https://github.com/alexy4744)</strong>
+  - <strong>[📫 Email](mailto:hello@alexyu.xyz)</strong>
 
-<h4 align="center">  
-  <a href="mailto:hello@alexyu.xyz">📫 Email</a>
-</h4>
+<!-- <img alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexy4744&theme=tokyonight&show_icons=true&count_private=true&hide=issues" /> -->
+<img alt="Alex's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexy4744&theme=outrun" />
 
-<br>
-
-<p align="center">
-<!--   <img alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexy4744&theme=tokyonight&show_icons=true&count_private=true&hide=issues" /> -->
-  <img alt="Alex's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexy4744&theme=tokyonight" />
-</p>
 
 <!--
 **alexy4744/alexy4744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
