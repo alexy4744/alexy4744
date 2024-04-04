@@ -1,10 +1,8 @@
-### Hi, I'm Alex 👋
-
-#### I’m currently working on [Quicksend](https://github.com/quicksend/quicksend), a self-hosted file sharing service.
+### Hello, I'm Alex 👋
 
 #### You can reach me at these places:
   - <strong>[💻 Github](https://github.com/alexy4744)</strong>
-  - <strong>[📫 Email](mailto:hello@alexyu.xyz)</strong>
+  - <strong>[📫 Email](mailto:hello@alexyu.dev)</strong>
 
 <!--
 **alexy4744/alexy4744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
